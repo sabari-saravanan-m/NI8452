@@ -10,6 +10,8 @@ NI8452 runs on Python 3.6, 3.7, 3.8 and 3.9, and is tested with continous-integr
 ## Install
 
 ```bash
+$ https://www.ni.com/en-in/support/downloads/drivers/download.ni-845x-driver-software.html#346270
+
 $ pip install C:\..\Downloads\NI8452
 ```
 
